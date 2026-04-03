@@ -15,7 +15,7 @@ updates:
       - "kind/dependencies"
       - "go"
   - package-ecosystem: "uv"
-    directory: "/"
+    directory: "test"
     schedule:
       interval: "daily"
     labels:
